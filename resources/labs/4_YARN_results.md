@@ -1,3 +1,4 @@
+```
 Slowest
 Map containers= 1 Reduce containers = 1 Container memory = 1024 Map Heap = 819 Reducer Heap = 819
 Teragen
@@ -25,3 +26,5 @@ Terasort
 real    0m44.925s
 user    0m7.799s
 sys     0m0.324s
+
+```
