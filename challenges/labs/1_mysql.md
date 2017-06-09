@@ -1,4 +1,4 @@
-
+```
 
 [root@ip-172-31-16-150 ec2-user]# hostname
 ip-172-31-16-150.eu-central-1.compute.internal
@@ -36,3 +36,6 @@ mysql> show databases;
 | sentry             |
 +--------------------+
 9 rows in set (0.00 sec)
+
+
+```
