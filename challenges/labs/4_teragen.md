@@ -74,8 +74,9 @@ Found 3 items
 -rw-r--r--   3 theresa supergroup          0 2017-06-09 06:46 /user/theresa/tgen512m/_SUCCESS
 -rw-r--r--   3 theresa supergroup 2560000000 2017-06-09 06:46 /user/theresa/tgen512m/part-m-00000
 -rw-r--r--   3 theresa supergroup 2560000000 2017-06-09 06:46 /user/theresa/tgen512m/part-m-00001
-
-
+```
+Your job should have produced six `part-m-0000x` files. Please review the given instructions.
+```
 [theresa@ip-172-31-25-103 cloudera-scm-server]$ hdfs fsck -blocks
 Connecting to namenode via http://ip-172-31-16-150.eu-central-1.compute.internal:50070
 FSCK started by theresa (auth:SIMPLE) from /172.31.25.103 for path / at Fri Jun 09 06:52:00 EDT 2017
